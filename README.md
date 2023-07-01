@@ -1,1 +1,1 @@
-# bioindormatics
+# bioinformatics
